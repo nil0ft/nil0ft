@@ -42,8 +42,8 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Lon60</h1>
+<h1 align="center">Hi 👋, I'm nil0ft</h1>
 
 ###
 
-<p align="center">My main tech stack is focused on <b>Spring Boot</b> and <b>React</b>.
+<p align="center">My main tech stack is focused on <b>Spring Boot</b> Java Development in IoT for public Transport in Switzerland.
