@@ -44,6 +44,10 @@
 
 <h1 align="center">Hi 👋, I'm nil0ft</h1>
 
-###
+<p align="center">
+  Spring Boot & Java, mostly.
+</p>
 
-<p align="center">My main tech stack is focused on <b>Spring Boot</b> Java Development.
+<p align="center">
+  Maintain <a href="https://github.com/sloplabs/slopos"><b>Slopos</b></a> over at <a href="https://github.com/sloplabs">Sloplabs</a>.
+</p>
